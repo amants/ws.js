@@ -9,7 +9,7 @@
         "formidable": "=1.1.1",
         "request": ">=2.9.100",
         "xmldom": "=0.1.7",
-        "dateformat": "1.2.3",
+        "dateformat": "1.0.12",
         "xml-crypto": ">=0.0.4"
      },
      "devDependencies": {
